@@ -32,7 +32,7 @@ Captures the soul of art respectfully and accurately with cultural depth. Moonwo
 
 **MoonWave (Audio)**  
 Turns simple audio into expressive, powerful sound—even on minimal infrastructure.
-[▶ Open MoonWave audio demos](./docs/index.html)
+[▶ Open MoonWave audio demos](../docs/index.html)
 
 
 **Selenix (Text)**  
