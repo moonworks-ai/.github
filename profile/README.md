@@ -20,14 +20,15 @@ Our CAT pretraining method sharply reduces the learning curve for new languages 
 
 **Lunara (Vision)**  
 Captures the soul of art respectfully and accurately with cultural depth. Moonworks partners with artists and uses public domain image to represent voice of artists and cultures.
+Lunara supports 100+ individual and regional art styles, including Scandinavian folk art, Skagen, Korean traditional, middle-eastern painting, ancient Indian, traditional Syrian.   
 
 <p align="center">
-  <img src="./1.png" alt="moonworks ai lunara: 1" height="150" />
-  <img src="./2.png" alt="moonworks ai lunara: 2" height="150" />
-  <img src="./3.png" alt="moonworks ai lunara: 3" height="150" />
-  <img src="./4.png" alt="moonworks ai lunara: 4" height="150" />
-  <img src="./5.png" alt="moonworks ai lunara: 5" height="150" />
-  <img src="./6.png" alt="moonworks ai lunara: 6" height="150" />
+  <img src="./assets/1.png" alt="moonworks ai lunara: 1" height="150" />
+  <img src="./assets/2.png" alt="moonworks ai lunara: 2" height="150" />
+  <img src="./assets/3.png" alt="moonworks ai lunara: 3" height="150" />
+  <img src="./assets/4.png" alt="moonworks ai lunara: 4" height="150" />
+  <img src="./assets/5.png" alt="moonworks ai lunara: 5" height="150" />
+  <img src="./assets/6.png" alt="moonworks ai lunara: 6" height="150" />
 </p>
 
 **MoonWave (Audio)**  
@@ -37,8 +38,12 @@ Turns simple audio into expressive, powerful sound—even on minimal infrastruct
 
 
 **Selenix (Text)**  
-Bridges cultures to turn every message into a meaningful connection. Selenix is lightweight and on-prem deployable. 
+Bridges cultures to turn every message into a meaningful connection. Selenix is lightweight and on-prem deployable, currently supporting English, Arabic, Bengali, Swedish, Danish, Norwegian and Korean, with more languages in the pipeline.
 
+<p align="center">
+  <img src="./assets/arabic.png" alt="moonworks ai selenix: 1" height="250" />
+  <img src="./assets/bangla.png" alt="moonworks ai selenix: 2" height="250" />
+</p>
 Moonworks AI: https://moonworks.ai/
 MoonAI: https://moonworks.ai/moonai
 Moonstone Agent: https://moonworks.ai/agents
