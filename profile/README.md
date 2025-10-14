@@ -137,7 +137,7 @@ Bridges cultures to turn every message into a meaningful connection. **Lightweig
 ---
 
 ## 🤝 Get Involved
-- Questions or partnership interest? **Open an issue** or **reach out** via our website.
+- Questions or partnership interest?  **reach out** via our website or **email** sabit@moonworks.ai
 - Want early access to research artifacts or pilots? **Contact us** and describe your use case.
 
 ---
@@ -146,8 +146,6 @@ Bridges cultures to turn every message into a meaningful connection. **Lightweig
 - Website: https://moonworks.ai/  
 - MoonAI: https://moonworks.ai/moonai  
 - Moonstone Agent: https://moonworks.ai/agents  
-- MoonWave Demos: https://moonworks-ai.github.io/.github/
-
 ---
 
 <p align="center">
