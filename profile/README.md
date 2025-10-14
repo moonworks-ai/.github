@@ -1,62 +1,157 @@
 ## Hello World! 👋
 
-
-Moonworks is building proprietary Sovereign AI at the deep-tech layer and advancing all three core wings of AI: text, speech, and vision.
-
-At the core, we have developed a paradigm-shifting CAT pretraining method that cuts compute costs (<1% of current method) with unprecedented agility.
-
-We pioneer Sovereign AI so nations and enterprises can own, govern, and scale their AI, preserving data sovereignty and cultural identity while unlocking innovation.  
-Our mission is to:
-
-Deliver secure, adaptable omnimodal AI (text, speech, vision) tailored to local & cultural context.  
-Make AI accessible and cost-efficient via proprietary models and infrastructure.
-
-### The CAT (Composite Active Transfer) Pretraining Method
-We love cats :D 
-
-Current language models such as Deepseek-Qwen or Mistral demonstrate strong performance in English and a handful of high-resource languages like Chinese or French, but do not perform well on others. This is a widespread limitation of models that are not extremely large in scale: they struggle to generalize beyond the languages they were heavily pretrained on. Standard fine-tuning cannot solve this, because the models lack foundational knowledge of the target languages in the first place. Attempts at continual pretraining) often fail to overcome this barrier, risk catastrophic forgetting, or require starting from scratch – leaving pretrained models largely non-transferable across languages. In short, today’s methods cannot break the language learning barrier, creating the need for a radically new paradigm. 
-
-Our CAT pretraining method sharply reduces the learning curve for new languages and domains. Its core idea is to close the gap between understanding and generation. Historically, natural-language understanding has required far less computational resources (Devlin et al., 2019), whereas scaling to generative models demanded orders of magnitude more. CAT introduces a novel latent-space bridge between understanding and generation, unlocking the ability to learn new languages and domains with unprecedented agility.
-
-### MoonAI: The Moonworks model family for language, vision, and speech.
-
-**Lunara (Vision)**  
-Captures the soul of art respectfully and accurately with cultural depth. Moonworks partners with artists and uses public domain image to represent voice of artists and cultures.
-Lunara supports 100+ individual and regional art styles, including Scandinavian folk art, Skagen, Korean traditional, middle-eastern painting, ancient Indian, traditional Syrian.   
-
 <p align="center">
-  <img src="./assets/1.png" alt="moonworks ai lunara: 1" height="150" />
-  <img src="./assets/2.png" alt="moonworks ai lunara: 2" height="150" />
-  <img src="./assets/3.png" alt="moonworks ai lunara: 3" height="150" />
-  <img src="./assets/4.png" alt="moonworks ai lunara: 4" height="150" />
-  <img src="./assets/5.png" alt="moonworks ai lunara: 5" height="150" />
-  <img src="./assets/6.png" alt="moonworks ai lunara: 6" height="150" />
+  <img src="./assets/banner.png" alt="Moonworks banner" height="110" />
 </p>
 
-**MoonWave (Audio)**  
-Turns simple audio into expressive, powerful sound—even on minimal infrastructure. Moonwave not only generates native-sounding voice but also integrates background music and SFX.
-
-[▶ Open MoonWave audio demos](https://moonworks-ai.github.io/.github/)
-
-
-**Selenix (Text)**  
-Bridges cultures to turn every message into a meaningful connection. Selenix is lightweight and on-prem deployable, currently supporting English, Arabic, Bengali, Swedish, Danish, Norwegian and Korean, with more languages in the pipeline.
+<h1 align="center">Moonworks — Sovereign AI for Text • Speech • Vision</h1>
 
 <p align="center">
-  <img src="./assets/arabic.png" alt="moonworks ai selenix: 1" height="250" />
-  <img src="./assets/bangla.png" alt="moonworks ai selenix: 2" height="250" />
+  Proprietary deep-tech to help nations & enterprises <b>own, govern, and scale</b> AI with cultural fidelity.
 </p>
-Moonworks AI: https://moonworks.ai/
-MoonAI: https://moonworks.ai/moonai
-Moonstone Agent: https://moonworks.ai/agents
 
-<!--
+<p align="center">
+  <a href="https://moonworks.ai/"><img alt="Website" src="https://img.shields.io/badge/website-moonworks.ai-111827?style=for-the-badge"></a>
+  <a href="https://moonworks.ai/moonai"><img alt="MoonAI" src="https://img.shields.io/badge/MoonAI-model%20family-0ea5e9?style=for-the-badge"></a>
+  <a href="https://moonworks.ai/agents"><img alt="Moonstone Agent" src="https://img.shields.io/badge/agents-moonstone-22c55e?style=for-the-badge"></a>
+  <a href="https://moonworks-ai.github.io/.github/"><img alt="Audio Demos" src="https://img.shields.io/badge/demos-moonwave-eab308?style=for-the-badge"></a>
+</p>
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ✨ Hello World
+
+Moonworks is building proprietary **Sovereign AI** at the deep-tech layer, advancing all three core wings of AI: **text, speech, and vision**.
+
+At the core, we’ve developed a paradigm-shifting pretraining method, **CAT (Composite Active Transfer)**, that **cuts compute (<1% of current methods)** while enabling unprecedented agility across new languages and domains.
+
+We pioneer Sovereign AI so nations and enterprises can own, govern, and scale their AI—preserving data sovereignty and cultural identity while unlocking innovation.
+
+**Our mission**
+- Deliver secure, adaptable **omnimodal AI** tailored to local & cultural context.
+- Make AI **accessible and cost-efficient** via proprietary models and infrastructure.
+
+---
+
+## 🧭 Table of Contents
+- [CAT (Composite Active Transfer)](#-cat-composite-active-transfer)
+- [MoonAI Model Family](#-moonai-model-family)
+  - [Lunara (Vision)](#lunara-vision)
+  - [MoonWave (Audio)](#moonwave-audio)
+  - [Selenix (Text)](#selenix-text)
+- [Demos](#-demos)
+- [Why Sovereign AI?](#-why-sovereign-ai)
+- [Get Involved](#-get-involved)
+- [Links](#-links)
+
+---
+
+## 🐈‍⬛ CAT (Composite Active Transfer)
+
+> **TL;DR**: CAT builds a **latent-space bridge** between *understanding* and *generation*, letting models acquire new languages/domains quickly and cheaply—**without catastrophic forgetting**.
+
+### The Problem
+Most non-giant LLMs excel in English and a few high-resource languages (e.g., Chinese, French) but **struggle elsewhere**. Standard fine-tuning can’t invent foundational knowledge of a new language, and continual pretraining often forgets previous skills or demands starting over.
+
+### The radically new CAT Approach
+- **Composite objectives** that actively balance understanding ↔ generation.
+- **Understanding-first curriculum** that bootstraps into generation.
+- **Compute efficiency**: adaptation at **<1%** of conventional pretraining cost.
+
+> _Historical note:_ Natural-language understanding has required far less compute than generation (e.g., masked-LM era). CAT leverages that gap to accelerate generative capabilities.
+
+<details>
+<summary><b>Key Properties</b></summary>
+
+- **Latent Bridge** — Aligns NLU representations with generative heads.
+- **Language Agility** — Designed to leap the “language learning barrier.”
+- **Domain Portability** — From general → specialized corpora with minimal cost.
+
+</details>
+
+---
+
+## 🌙 MoonAI Model Family
+
+Omnimodal AI built for **cultural fidelity** and **sovereign deployment**.
+
+### Lunara (Vision)
+Captures the **soul of art** with respect and cultural depth. We partner with artists and use public-domain imagery to reflect the voices of artists and cultures.  
+Supports **100+ styles**, including Scandinavian folk, Skagen, Korean traditional, Middle-Eastern painting, ancient Indian, and traditional Syrian.
+
+<p align="center">
+  <img src="./assets/1.png" alt="Lunara sample 1" height="140" />
+  <img src="./assets/2.png" alt="Lunara sample 2" height="140" />
+  <img src="./assets/3.png" alt="Lunara sample 3" height="140" />
+  <img src="./assets/4.png" alt="Lunara sample 4" height="140" />
+  <img src="./assets/5.png" alt="Lunara sample 5" height="140" />
+  <img src="./assets/6.png" alt="Lunara sample 6" height="140" />
+</p>
+
+**Highlights**
+- Cultural and stylistic fidelity across 100+ art traditions  
+- Respectful dataset strategy: artist partnerships + public domain
+- Ready for sovereign, on-premise workflows
+
+---
+
+### MoonWave (Audio)
+Turns simple audio into **expressive, production-ready sound**—even on minimal infrastructure. Generates **native-sounding voice** and can **blend background music & SFX**.
+
+- Multi-voice speech synthesis  
+- Built-in music/SFX composition  
+- Edge-friendly inference for on-prem setups
+
+👉 **[Open MoonWave Audio Demos ›](https://moonworks-ai.github.io/.github/)**
+
+---
+
+### Selenix (Text)
+Bridges cultures to turn every message into a meaningful connection. **Lightweight** and **on-prem deployable**.
+
+**Currently supports**: English, Arabic, Bengali, Swedish, Danish, Norwegian, Korean (more in pipeline).
+
+<p align="center">
+  <img src="./assets/arabic.png" alt="Selenix Arabic" height="220" />
+  <img src="./assets/bangla.png" alt="Selenix Bengali" height="220" />
+</p>
+
+**Highlights**
+- Private by default • on-prem friendly  
+- Tailored to local & cultural context  
+- Efficient training via **CAT** for rapid language/domain lift
+
+---
+
+## 🎛 Demos
+- **MoonAI Overview:** https://moonworks.ai/moonai  
+- **Moonstone Agent:** https://moonworks.ai/agents  
+- **MoonWave Audio Demos:** https://moonworks-ai.github.io/.github/
+
+---
+
+## 🏛 Why Sovereign AI?
+- **Ownership & Governance** — Keep sensitive data and model weights under your jurisdiction.  
+- **Cultural Fidelity** — Systems that truly understand local languages, idioms, and art styles.  
+- **Operational Control** — Deploy on-prem or air-gapped; tune for domain-specific needs.  
+- **Cost Efficiency** — CAT slashes adaptation costs, enabling agile iteration.
+
+---
+
+## 🤝 Get Involved
+- Questions or partnership interest? **Open an issue** or **reach out** via our website.
+- Want early access to research artifacts or pilots? **Contact us** and describe your use case.
+
+---
+
+## 🔗 Links
+- Website: https://moonworks.ai/  
+- MoonAI: https://moonworks.ai/moonai  
+- Moonstone Agent: https://moonworks.ai/agents  
+- MoonWave Demos: https://moonworks-ai.github.io/.github/
+
+---
+
+<p align="center">
+  <sub>© {YEAR} Moonworks. All rights reserved.</sub>
+</p>
