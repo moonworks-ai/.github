@@ -19,7 +19,7 @@ Our CAT pretraining method sharply reduces the learning curve for new languages 
 ### MoonAI: The Moonworks model family for language, vision, and speech.
 
 **Lunara (Vision)**  
-Captures the soul of art respectfully and accurately with cultural depth.
+Captures the soul of art respectfully and accurately with cultural depth. Moonworks partners with artists and uses public domain image to represent voice of artists and cultures.
 
 <p align="center">
   <img src="./1.png" alt="moonworks ai lunara: 1" height="150" />
@@ -34,8 +34,7 @@ Captures the soul of art respectfully and accurately with cultural depth.
 Turns simple audio into expressive, powerful sound—even on minimal infrastructure.
 | | | |
 |---|---|---|
-| <audio controls src="./princess.wav"></audio> | <audio controls src="./Aparajita.wav"></audio> | <audio controls src="./Rania.wav"></audio> |
-| princess.wav | aparajita.wav | rania.wav |
+| [▶ princess.wav](./princess.wav) | [▶ aparajita.wav](./Aparajita.wav) | [▶ rania.wav](./Rania.wav) |
 
 
 **Selenix (Text)**  
