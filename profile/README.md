@@ -12,6 +12,8 @@ Deliver secure, adaptable omnimodal AI (text, speech, vision) tailored to local 
 Make AI accessible and cost-efficient via proprietary models and infrastructure.
 
 ### The CAT (Composite Active Transfer) Pretraining Method
+We love cats :D 
+
 Current language models such as Deepseek-Qwen or Mistral demonstrate strong performance in English and a handful of high-resource languages like Chinese or French, but do not perform well on others. This is a widespread limitation of models that are not extremely large in scale: they struggle to generalize beyond the languages they were heavily pretrained on. Standard fine-tuning cannot solve this, because the models lack foundational knowledge of the target languages in the first place. Attempts at continual pretraining) often fail to overcome this barrier, risk catastrophic forgetting, or require starting from scratch – leaving pretrained models largely non-transferable across languages. In short, today’s methods cannot break the language learning barrier, creating the need for a radically new paradigm. 
 
 Our CAT pretraining method sharply reduces the learning curve for new languages and domains. Its core idea is to close the gap between understanding and generation. Historically, natural-language understanding has required far less computational resources (Devlin et al., 2019), whereas scaling to generative models demanded orders of magnitude more. CAT introduces a novel latent-space bridge between understanding and generation, unlocking the ability to learn new languages and domains with unprecedented agility.
