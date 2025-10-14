@@ -46,7 +46,7 @@ We pioneer Sovereign AI so nations and enterprises can own, govern, and scale th
 
 ## 🐈‍⬛ CAT (Composite Active Transfer)
 
-> **TL;DR**: CAT builds a **latent-space bridge** between *understanding* and *generation*, letting models acquire new languages/domains quickly and cheaply—**without catastrophic forgetting**.
+> **TL;DR**: CAT builds a **latent-space bridge** between *understanding* and *generation*, letting models acquire new languages/domains quickly and cheaply.
 
 ### The Problem
 Most non-giant LLMs excel in English and a few high-resource languages (e.g., Chinese, French) but **struggle elsewhere**. Standard fine-tuning can’t invent foundational knowledge of a new language, and continual pretraining often forgets previous skills or demands starting over.
