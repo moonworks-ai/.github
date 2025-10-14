@@ -26,10 +26,17 @@ Captures the soul of art respectfully and accurately with cultural depth.
   <img src="./2.png" alt="moonworks ai lunara: 2" height="150" />
   <img src="./3.png" alt="moonworks ai lunara: 3" height="150" />
   <img src="./4.png" alt="moonworks ai lunara: 4" height="150" />
+  <img src="./5.png" alt="moonworks ai lunara: 5" height="150" />
+  <img src="./6.png" alt="moonworks ai lunara: 6" height="150" />
 </p>
 
 **MoonWave (Audio)**  
 Turns simple audio into expressive, powerful sound—even on minimal infrastructure.
+| | | |
+|---|---|---|
+| <audio controls src="./princess.wav"></audio> | <audio controls src="./Aparajita.wav"></audio> | <audio controls src="./Rania.wav"></audio> |
+| princess.wav | aparajita.wav | rania.wav |
+
 
 **Selenix (Text)**  
 Bridges cultures to turn every message into a meaningful connection.
