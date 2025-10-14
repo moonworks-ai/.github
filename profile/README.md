@@ -31,12 +31,13 @@ Captures the soul of art respectfully and accurately with cultural depth. Moonwo
 </p>
 
 **MoonWave (Audio)**  
-Turns simple audio into expressive, powerful sound—even on minimal infrastructure.
+Turns simple audio into expressive, powerful sound—even on minimal infrastructure. Moonwave not only generates native-sounding voice but also integrates background music and SFX.
+
 [▶ Open MoonWave audio demos](https://moonworks-ai.github.io/.github/)
 
 
 **Selenix (Text)**  
-Bridges cultures to turn every message into a meaningful connection.
+Bridges cultures to turn every message into a meaningful connection. Selenix is lightweight and on-prem deployable. 
 
 Moonworks AI: https://moonworks.ai/
 MoonAI: https://moonworks.ai/moonai
