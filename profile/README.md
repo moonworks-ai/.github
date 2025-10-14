@@ -1,21 +1,19 @@
-## Hello World! 👋
-
 <p align="center">
-  <img src="./assets/banner.png" alt="Moonworks banner" height="110" />
+  <img src="./assets/banner.png" alt="Moonworks banner" height="150" />
 </p>
 
-<h1 align="center">Moonworks — Sovereign AI for Text • Speech • Vision</h1>
+<h1 align="center">Moonworks Sovereign AI for Text • Speech • Vision</h1>
 
 <p align="center">
   Proprietary deep-tech to help nations & enterprises <b>own, govern, and scale</b> AI with cultural fidelity.
 </p>
 
 <p align="center">
-  <a href="https://moonworks.ai/"><img alt="Website" src="https://img.shields.io/badge/website-moonworks.ai-111827?style=for-the-badge"></a>
+  <a href="https://moonworks.ai/"><img alt="Website" src="https://img.shields.io/badge/website-moonworks.ai-000000?style=for-the-badge"></a>
   <a href="https://moonworks.ai/moonai"><img alt="MoonAI" src="https://img.shields.io/badge/MoonAI-model%20family-0ea5e9?style=for-the-badge"></a>
-  <a href="https://moonworks.ai/agents"><img alt="Moonstone Agent" src="https://img.shields.io/badge/agents-moonstone-22c55e?style=for-the-badge"></a>
-  <a href="https://moonworks-ai.github.io/.github/"><img alt="Audio Demos" src="https://img.shields.io/badge/demos-moonwave-eab308?style=for-the-badge"></a>
+  <a href="https://moonworks.ai/agents"><img alt="Moonstone Agent" src="https://img.shields.io/badge/agents-moonstone-ff0000?style=for-the-badge"></a>
 </p>
+
 
 ---
 
