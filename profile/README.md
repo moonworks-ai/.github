@@ -2,10 +2,10 @@
   <img src="./assets/banner.png" alt="Moonworks banner" height="150" />
 </p>
 
-<h1 align="center">Moonworks Sovereign AI for Text • Speech • Vision</h1>
+<h1 align="center">Moonworks Frontier Sovereign AI for Text • Speech • Vision</h1>
 
 <p align="center">
-  Proprietary deep-tech to help nations & enterprises <b>own, govern, and scale</b> AI with cultural fidelity.
+  Proprietary deep-tech to make frontier AI <b>economically viable</b> for builders, investors and end users.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 Moonworks is building proprietary **Sovereign AI** at the deep-tech layer, advancing all three core wings of AI: **text, speech, and vision**.
 
-At the core, we’ve developed a paradigm-shifting pretraining method, **CAT (Composite Active Transfer)**, that **cuts compute (<1% of current methods)** while enabling unprecedented agility across new languages and domains.
+At the core, we’ve developed a paradigm-shifting pretraining method, **CAT (Composite Active Transfer)**, that **cuts compute** while enabling unprecedented agility across new languages and domains.
 
 We pioneer Sovereign AI so nations and enterprises can own, govern, and scale their AI—preserving data sovereignty and cultural identity while unlocking innovation.
 
@@ -54,7 +54,6 @@ Most non-giant LLMs excel in English and a few high-resource languages (e.g., Ch
 ### The radically new CAT Approach
 - **Composite objectives** that actively balance understanding ↔ generation.
 - **Understanding-first curriculum** that bootstraps into generation.
-- **Compute efficiency**: adaptation at **<1%** of conventional pretraining cost.
 
 > _Historical note:_ Natural-language understanding has required far less compute than generation (e.g., masked-LM era). CAT leverages that gap to accelerate generative capabilities.
 
