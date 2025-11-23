@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Moonworks banner" height="150" />
 </p>
 
-<h1 align="center">Moonworks Frontier Sovereign AI for Text • Speech • Vision</h1>
+<h1 align="center">Moonworks Lean & Agile Frontier AI for Text • Speech • Vision</h1>
 
 <p align="center">
   Proprietary deep-tech to make frontier AI <b>economically viable</b> for builders, investors and end users.
@@ -19,7 +19,7 @@
 
 ## ✨ Hello World
 
-Moonworks is building proprietary **Sovereign AI** at the deep-tech layer, advancing all three core wings of AI: **text, speech, and vision**.
+Moonworks is building proprietary **Lean & Agile Frontier AI** at the deep-tech layer, advancing all three core wings of AI: **text, speech, and vision**.
 
 At the core, we’ve developed a paradigm-shifting pretraining method, **CAT (Composite Active Transfer)**, that **cuts compute** while enabling unprecedented agility across new languages and domains.
 
@@ -127,7 +127,7 @@ Bridges cultures to turn every message into a meaningful connection. **Lightweig
 
 ---
 
-## 🏛 Why Sovereign AI?
+## 🏛 Why Moonworks AI?
 - **Ownership & Governance** — Keep sensitive data and model weights under your jurisdiction.  
 - **Cultural Fidelity** — Systems that truly understand local languages, idioms, and art styles.  
 - **Operational Control** — Deploy on-prem or air-gapped; tune for domain-specific needs.  
