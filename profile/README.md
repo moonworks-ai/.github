@@ -17,6 +17,12 @@
 
 ---
 
+## 📢 Lunara Open Source Data Release – Part 1
+
+Dataset: https://huggingface.co/datasets/moonworks/lunara-aesthetic
+
+Paper: https://arxiv.org/abs/2601.07941
+
 ## ✨ Hello World
 
 Moonworks is building proprietary **Lean & Agile Frontier AI** at the deep-tech layer, advancing all three core wings of AI: **text, speech, and vision**.
