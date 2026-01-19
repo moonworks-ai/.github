@@ -29,7 +29,6 @@ Moonworks is building proprietary **Lean & Agile Frontier AI** at the deep-tech 
 
 At the core, we’ve developed a paradigm-shifting pretraining method, **CAT (Composite Active Transfer)**, that **cuts compute** while enabling unprecedented agility across new languages and domains.
 
-We pioneer Sovereign AI so nations and enterprises can own, govern, and scale their AI—preserving data sovereignty and cultural identity while unlocking innovation.
 
 **Our mission**
 - Deliver secure, adaptable **omnimodal AI** tailored to local & cultural context.
