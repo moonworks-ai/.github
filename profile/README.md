@@ -17,6 +17,12 @@
 
 ---
 
+## 📢 Lunara Open Source Data Release – Part 2
+
+Dataset: https://huggingface.co/datasets/moonworks/lunara-aesthetic-image-variations
+
+Paper: https://arxiv.org/pdf/2602.01666
+
 ## 📢 Lunara Open Source Data Release – Part 1
 
 Dataset: https://huggingface.co/datasets/moonworks/lunara-aesthetic
